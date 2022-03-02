@@ -1,0 +1,166 @@
+/* .navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+} */
+* img{
+    object-fit:cover
+}
+ body{
+    overflow-x: hidden;
+ }  
+ .para{
+    /* background-color: #f5f5f7; */
+     color: #1d1d1f; 
+     height: 50px;
+     width: 100%;
+     /* margin-top: 5rem; */
+     padding-top:50px;
+      padding-bottom: 1rem;
+ }
+    .container-fluid{
+        text-align: center;
+        justify-content: space-between;
+    }
+    h2{
+        font-size: 50px;
+        font-weight:bold;
+    }
+    .imgone {
+        display: block;
+        width: 100%;
+        height: 550px;
+      
+      }
+
+.divoflist{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+   
+}
+.first{
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    top: 130px;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    
+}
+.one{
+    padding-left: 50px;
+}
+.two{
+    justify-content: center;
+    position: absolute; 
+    text-align: center;
+    top:680px;
+    /* padding-left: 600px; */
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.imgtwo{
+       width: 100%;
+       height: 600px;
+        padding-top: 10px;
+   }
+   .three{
+    justify-content: center;
+    position: relative; 
+    text-align: center;
+    bottom:580px;
+    
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+   }
+   .imgthree{
+       height: 650px;
+       width: 100%;
+   }
+    /* .fourth{
+      padding-top: 10px;
+     display: flex;
+     flex-direction: row;
+     margin-top: -135px;
+         
+  } 
+  .miniwa{
+      position: absolute;
+     top: 1930px;
+    padding-left: 200px;
+     
+    font-size: 40px;
+    line-height: 1.1;
+    font-weight: 60;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+  }
+    .minii{
+        position: absolute;
+        top: 1970px;
+       padding-left: 240px;
+        
+       font-size: 40px;
+       line-height: 1.1;
+       font-weight: 600;
+       letter-spacing: 0em;
+       font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    } */
+
+    .promo_one{
+        background-color: rgb(245,245,247);
+        cursor: pointer;
+
+    }
+    .promo_two{
+        /* margin-top: 100px; */
+        background-color: rgb(251,251,253);
+        
+     }
+     .promo_three{
+          margin-top: 100px;
+        background-color: rgb(251,251,253);
+     }
+    .promos{
+        background-color: #fff;
+        margin-top: -120px;
+    }
+    .logomini{
+        padding-top: 5px;
+        width: 170px;
+    }
+    .footer{
+        text-align: justify;
+       margin-left: 247px;
+       margin-right: 247px;
+       margin-top: 20px;
+      
+    }
+    .footer-points{
+        font-size: 12p;
+        color: #6e6e73;
+        list-style-type:none;
+        padding: 0;
+        cursor: pointer;
+        text-align: justify;
+    }
+    .footer-head{
+        text-align: justify;
+        font-size: 15px;
+        font-weight: 500;
+        padding-top: 10px;
+        cursor: context-menu;
+    }
+    .footerrow{
+        gap:10px;
+        /* justify-content: center; */
+        font-size: 12px;
+        text-align: start;
+        /* border-bottom: 2px solid; */
+        border-bottom: 1px solid#d2d2d7;
+        
+    }
